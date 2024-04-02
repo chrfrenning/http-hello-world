@@ -23,4 +23,4 @@ After running and testing with `build.sh`, run the following in your terminal:
 
 ### Shortcut?
 
-* The image is already available on Docker Hub as `chrfrenning/flask-hello-world:latest`
+* The image is already [available on Docker Hub](https://hub.docker.com/repository/docker/chrfrenning/flask-hello-world/general) as `chrfrenning/flask-hello-world:latest`

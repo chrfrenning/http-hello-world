@@ -17,8 +17,6 @@ After running and testing with `build.sh`, run the following in your terminal:
     docker login
     docker tag flask-hello-world yourusername/flask-hello-world:latest
     docker push yourusername/flask-hello-world:latest
-
-    
 ```
 
 * Replace yourusername and the tag latest as necessary, ask ChatGPT or do some Googling.
